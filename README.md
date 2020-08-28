@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi I'm Arryan 👋
 
-<!--
-**arryan231/arryan231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Working in field of data science,deep learing and MERN developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[adobe]: https://adobe.com
+[react]: http://reactjs.org
+[gatsby]: https://gatsbyjs.org
+[styled]: https://styled-components.com
+[jamstack]: https://jamstack.org
+[murph]: https://murphee.netlify.app
+[murphee]: https://murphee.netlify.app
+[svelte]: https://svelte.dev
+[tailwind]: https://tailwindcss.com
+[website]: https://bradgarropy.com
