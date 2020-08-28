@@ -4,7 +4,7 @@
 
 
 🐦 [twitter][twitter] **|** 
- [instagram][instagram] **|** 
+📷[instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
 
