@@ -2,8 +2,8 @@
 
 #### Working in field of data science,deep learing and MERN developer
 
-
-🐦 [twitter][twitter] **|** 
+### Connect with Me
+🐦 [[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]][twitter] **|** 
 📷[instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
