@@ -1,6 +1,6 @@
 ### Hi I'm Arryan 👋
 
-##### Working in field of data science,deep learing and MERN developer
+#### Working in field of data science,deep learing and MERN developer
 
 
 🐦 [twitter][twitter] **|** 
