@@ -10,5 +10,5 @@
 
 [twitter]: https://twitter.com/2Arryan
 [instagram]: https://www.instagram.com/arryan_999/
-[linkdin]: https://www.linkedin.com/in/arryan-sinha-b70aa3147/
+[linkedin]: https://www.linkedin.com/in/arryan-sinha-b70aa3147/
 
